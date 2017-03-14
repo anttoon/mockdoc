@@ -1,5 +1,5 @@
 {
-  "name": "mockdock",
+  "name": "mockdoc",
   "version": "0.0.1",
   "description": "Mock document helper for tests",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anttoon/mockdock.git"
+    "url": "git+https://github.com/anttoon/mockdoc.git"
   },
   "keywords": [
     "test",
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/anttoon/mockdock/issues"
   },
-  "homepage": "https://github.com/anttoon/mockdock#readme"
+  "homepage": "https://github.com/anttoon/mockdoc#readme"
 }
